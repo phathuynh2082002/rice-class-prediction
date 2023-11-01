@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-app/static/css/main.608a6c8e.css",
-    "main.js": "/react-app/static/js/main.4f900b2f.js",
-    "static/media/commeo.png": "/react-app/static/media/commeo.456074da0d2b561c56c5.png",
-    "static/media/osmacik.png": "/react-app/static/media/osmacik.7460ebe67c512df6e34f.png",
-    "index.html": "/react-app/index.html",
-    "main.608a6c8e.css.map": "/react-app/static/css/main.608a6c8e.css.map",
-    "main.4f900b2f.js.map": "/react-app/static/js/main.4f900b2f.js.map"
+    "main.css": "/rice-class-prediction/static/css/main.608a6c8e.css",
+    "main.js": "/rice-class-prediction/static/js/main.acef6bdf.js",
+    "static/media/commeo.png": "/rice-class-prediction/static/media/commeo.456074da0d2b561c56c5.png",
+    "static/media/osmacik.png": "/rice-class-prediction/static/media/osmacik.7460ebe67c512df6e34f.png",
+    "index.html": "/rice-class-prediction/index.html",
+    "main.608a6c8e.css.map": "/rice-class-prediction/static/css/main.608a6c8e.css.map",
+    "main.acef6bdf.js.map": "/rice-class-prediction/static/js/main.acef6bdf.js.map"
   },
   "entrypoints": [
     "static/css/main.608a6c8e.css",
-    "static/js/main.4f900b2f.js"
+    "static/js/main.acef6bdf.js"
   ]
 }
